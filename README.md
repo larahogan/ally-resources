@@ -1,3 +1,5 @@
+_Just a handful of things that were helpful to me, or that I developed with other allies, while working at Etsy._
+
 # Resources for allies
 
 [How to be a sponsor to members of underrepresented groups](http://larahogan.me/blog/what-sponsorship-looks-like/)
