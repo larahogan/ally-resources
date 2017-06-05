@@ -29,3 +29,31 @@
 29. mike morgan: donuts
 30. arylee: brownies from starbucks
 31. nassim: almond croissants
+
+Former Etsy:
+
+1. cdary: banana bread
+2. jklein: chocolate chip cookie, peanut butter chocolate chip cookie ("jonathan cookie" from his grandmother who passed away), moist brownie, or strawberry rhubarb pie or apple pie or any kinds of berry pie
+3. paloma: salted chocolate chip cookies from foragers
+4. Sandosh: Almond croissants
+5. thomas bonnin: chocolate croissant
+6. Amy C: Muffins
+7. jattenberg: apple pie
+8. jgoulah: brownies
+9. katie hunt-morr: gluten-free, with chunks, nuts, berries and seeds (wants to feel as though she's eating a forest with every bite)
+10. Lacey: scones
+11. Roy: donuts
+12. pbellisano: chocolate chip cookies
+13. Fairbanks: really good bear claws, kind of nutty/almondy sweets, boston cream donut
+14. beug: german chocolate cake, otis spunkmeyer cookies
+15. adam brown: lemon bars, blondies, crumblies
+16. dna: sour cherries from that candy shop, candy canes
+17. sufian: poppyseed muffins, or banana nut
+18. allspaw: donuts, chocolate chip cookies with ridiculous chunks. fudge brownies.
+19. tim falzone: banana bread
+20. moishe: coffee/cappucino
+21. elise: rice crispy treats
+22. morgan evans:  cookies of all kinds, particularly ones that are either simple (like ginger snaps or sugar cookies) OR one's that are stupidly full of different random crap like raisins, potato chips, coffee, oats, butterscotch, m&ms, pretzels, rainbow sprinkles, frosting, plastic dinosaurs, etc..
+23. rnadella: pie (fruit pie)
+24. jwong: Non-chocolate filled eclairs, Dulce de leche or cafe au lait doughnut from dough, A well executed peach or pear fruit Danish, An almond croissant
+25. bmassie: coca cola, dark chocolate, pecan pie, cheesecake, ice cream cake, cupcakes, peanut butter cookies among lots of other things.
