@@ -1,6 +1,6 @@
 # Resources for allies
 
-[Sponsorship and mentorship](http://larahogan.me/blog/what-sponsorship-looks-like/)
+[How to be a sponsorship to members of underrepresented groups](http://larahogan.me/blog/what-sponsorship-looks-like/)
 
 [Tips for managers of marginalized people](http://larahogan.me/blog/being-a-manager-in-terrible-times/)
 
