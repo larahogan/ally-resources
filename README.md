@@ -6,6 +6,8 @@ _Just a handful of things that were helpful to me, or that I developed with othe
 
 [Tips for managers of marginalized people](http://larahogan.me/blog/being-a-manager-in-terrible-times/)
 
+[Recommended Reading for Allies](https://codeascraft.com/2016/08/10/recommended-reading-for-allies/) by Toria Gibbs and Ian Malpass (Code as Craft)
+
 [Impact of diversity work, positive and negative, from the book of Gender & Work](Research%20-%20Impact%20of%20Diversity%20Work.pdf) (PDF)
 
 # Etsy-specific stuff
