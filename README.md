@@ -8,7 +8,7 @@ _Just a handful of things that were helpful to me, or that I developed with othe
 
 [Impact of diversity work, positive and negative, from the book of Gender & Work](Research%20-%20Impact%20of%20Diversity%20Work.pdf) (PDF)
 
-# Other random stuff
+# Etsy-specific stuff
 
 [The full story of that engmgr photo and their allyship](http://larahogan.me/blog/we-are-all-equally-drenched/)
 
