@@ -14,7 +14,11 @@ Start here: [THE BEST PDF on allll this stuff at a high level.](https://www.ncwi
 
 [Tips for managers of marginalized people](http://larahogan.me/blog/being-a-manager-in-terrible-times/)
 
+Slide decks for [managers](Managers%20%2B%20Sponsorship.pdf) and [staff engineers](Staff%20Eng%20%2B%20Sponsorship.pdf) on how to be sponsors, with [Venkat Mahalingam](https://twitter.com/annacoder)
+
 ## Giving good feedback
+
+[Study: Women ask for feedback as often as men—but are less likely to receive it](Women_in_the_Workplace_2016.pdf) (PDF, look at page 14)
 
 [Research: Vague Feedback Is Holding Women Back](https://hbr.org/2016/04/research-vague-feedback-is-holding-women-back)
 
@@ -23,5 +27,11 @@ Start here: [THE BEST PDF on allll this stuff at a high level.](https://www.ncwi
 # Etsy-specific stuff
 
 [The full story of that engmgr photo and their allyship](http://larahogan.me/blog/we-are-all-equally-drenched/)
+
+[Difficult conversations manager interview roleplay description](Difficult%20Conversations%20Roleplay%20description.pdf)
+
+[Different ways to recognize Engineers](How%20We%20Recognize%20Engineers.pdf)
+
+[Research](Returnship%20Research%20with%20Daniel%20Schauenberg.pdf) [Daniel Schauenberg](https://twitter.com/mrtazz) and I did on "returnships"
 
 Thank your local ally: [Etsyans' favorite baked goods](favorite-baked-goods.md)
