@@ -28,10 +28,10 @@ Slide decks for [managers](Managers%20%2B%20Sponsorship.pdf) and [staff engineer
 
 [The full story of that engmgr photo and their allyship](http://larahogan.me/blog/we-are-all-equally-drenched/)
 
-[Difficult conversations manager interview roleplay description](Difficult%20Conversations%20Roleplay%20description.pdf)
+[Difficult conversations manager interview roleplay description](Difficult%20Conversations%20Roleplay%20description.pdf) with [Seth Walker](https://twitter.com/sethwalker)
 
-[Different ways to recognize Engineers](How%20We%20Recognize%20Engineers.pdf)
+[Different ways we've recognized engineers](How%20We%20Recognize%20Engineers.pdf)
 
-[Research](Returnship%20Research%20with%20Daniel%20Schauenberg.pdf) [Daniel Schauenberg](https://twitter.com/mrtazz) and I did on "returnships"
+Research that [Daniel Schauenberg](https://twitter.com/mrtazz) and I did on ["returnships"](Returnship%20Research%20with%20Daniel%20Schauenberg.pdf)
 
 Thank your local ally: [Etsyans' favorite baked goods](favorite-baked-goods.md)
