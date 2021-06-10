@@ -2,7 +2,7 @@ _Just a handful of things that were helpful to me, or that I developed with othe
 
 # Resources for allies
 
-Start here: [THE BEST PDF on allll this stuff at a high level.](https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf)
+Start here: [THE BEST PDF on allll this stuff at a high level.](https://wpassets.ncwit.org/wp-content/uploads/2021/05/13193304/ncwit_women-in-it_2016-full-report_final-web06012016.pdf)
 
 [Recommended Reading for Allies](https://codeascraft.com/2016/08/10/recommended-reading-for-allies/) by Toria Gibbs and Ian Malpass (Code as Craft)
 
